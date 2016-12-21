@@ -1,0 +1,203 @@
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Asteroids_Re_Loaded.exe
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Asteroids_Re_Loaded.pdb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Asteroids_Re_Loaded.csprojResolveAssemblyReference.cache
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Asteroids_Re_Loaded.exe
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Asteroids_Re_Loaded.pdb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Asteroids_Re_Loaded.exe
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Asteroids_Re_Loaded.pdb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Asteroids_Re_Loaded.csprojResolveAssemblyReference.cache
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Asteroids_Re_Loaded.exe
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Asteroids_Re_Loaded.pdb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Ophelia.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Ophelia.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\bullet.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\bullet.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\FuelBar.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Othello.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid1.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\FuelBar.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Othello.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid1.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid2.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GreenGem.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid2.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GreenGem.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Background.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Background.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start Screen PLay.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start Screen.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenCredits.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenExit.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenOptions.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start Screen PLay.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start Screen.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenCredits.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenExit.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenOptions.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Highlight.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Levels.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Pathways.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid3.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Box.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\OrangeGem.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\PurpleGem.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\RedGem.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SilverGem.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Loading.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\starRotate.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Help.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SampleScreen.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\EnemyTexture.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\enemybullet.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\gameover.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Armor.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Back.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Engine.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\FuelTank.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\hangarback.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Hold.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserCharge.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserPower.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserShield.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Oberon.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Ophelia2.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Othello2.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Upgrade1.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Upgrade2.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\UpgradeShip2.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SideThrust.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Sell.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\OberonMovement.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Shield.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Click.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ShotEffect.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\fly.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Shot_hits_asteroid.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\backGroundMusic.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\backGroundMusic.wma
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ComingFromMission.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GoingToMission.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ComingFromMission.wmv
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GoingToMission.wmv
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Credits.xnb
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Options.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Box.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\OrangeGem.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\PurpleGem.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\RedGem.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SilverGem.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Loading.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\starRotate.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Help.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Highlight.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Levels.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Pathways.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SampleScreen.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid3.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\EnemyTexture.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\enemybullet.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\gameover.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Armor.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Back.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Engine.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\FuelTank.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\hangarback.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Hold.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserCharge.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserPower.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserShield.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Oberon.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Ophelia2.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Othello2.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Upgrade1.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Upgrade2.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\UpgradeShip2.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SideThrust.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Sell.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\OberonMovement.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Shield.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Credits.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Options.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Click.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ShotEffect.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\fly.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Shot_hits_asteroid.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\backGroundMusic.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ComingFromMission.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GoingToMission.xnb
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\backGroundMusic.wma
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ComingFromMission.wmv
+F:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GoingToMission.wmv
+E:\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ShiledBar.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Asteroids_Re_Loaded.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Asteroids_Re_Loaded.exe
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Ophelia.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\FuelBar.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Othello.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid1.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GreenGem.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Background.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start Screen PLay.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start Screen.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenCredits.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenExit.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenOptions.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Box.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\OrangeGem.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\PurpleGem.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\RedGem.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SilverGem.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Loading.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\starRotate.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Help.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Highlight.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Levels.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Pathways.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SampleScreen.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid2.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid3.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\EnemyTexture.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\enemybullet.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Armor.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Back.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Engine.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\FuelTank.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\hangarback.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Hold.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserCharge.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserPower.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserShield.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Oberon.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Ophelia2.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Othello2.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Upgrade1.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Upgrade2.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\UpgradeShip2.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SideThrust.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Sell.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\OberonMovement.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Shield.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Credits.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Options.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ShiledBar.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Click.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ShotEffect.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\fly.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Shot_hits_asteroid.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\backGroundMusic.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ComingFromMission.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GoingToMission.xnb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\backGroundMusic.wma
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ComingFromMission.wmv
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GoingToMission.wmv
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Asteroids_Re_Loaded.exe
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Asteroids_Re_Loaded.pdb
+C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\Asteroids_Re_Loaded.pdb

@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Ophelia.png</Source>
+      <Name>Ophelia</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Ophelia.xnb</Output>
+      <Time>2016-03-07T16:48:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2016-03-03T11:35:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>FuelBar.png</Source>
+      <Name>FuelBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\FuelBar.xnb</Output>
+      <Time>2016-03-30T21:44:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Othello.png</Source>
+      <Name>Othello</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Othello.xnb</Output>
+      <Time>2016-03-31T19:52:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>whiteAsteroid1.png</Source>
+      <Name>whiteAsteroid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid1.xnb</Output>
+      <Time>2016-04-15T10:40:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GreenGem.png</Source>
+      <Name>GreenGem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GreenGem.xnb</Output>
+      <Time>2016-04-18T10:11:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.jpg</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2016-04-19T14:29:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start Screen PLay.jpg</Source>
+      <Name>Start Screen PLay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start Screen PLay.xnb</Output>
+      <Time>2016-04-19T22:39:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start Screen.jpg</Source>
+      <Name>Start Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start Screen.xnb</Output>
+      <Time>2016-04-19T22:39:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start ScreenCredits.jpg</Source>
+      <Name>Start ScreenCredits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenCredits.xnb</Output>
+      <Time>2016-04-19T22:39:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start ScreenExit.jpg</Source>
+      <Name>Start ScreenExit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenExit.xnb</Output>
+      <Time>2016-04-19T22:39:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start ScreenOptions.jpg</Source>
+      <Name>Start ScreenOptions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Start ScreenOptions.xnb</Output>
+      <Time>2016-04-19T22:39:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Box.png</Source>
+      <Name>Box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Box.xnb</Output>
+      <Time>2016-04-20T21:35:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>OrangeGem.png</Source>
+      <Name>OrangeGem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\OrangeGem.xnb</Output>
+      <Time>2016-04-20T22:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PurpleGem.png</Source>
+      <Name>PurpleGem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\PurpleGem.xnb</Output>
+      <Time>2016-04-20T22:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>RedGem.png</Source>
+      <Name>RedGem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\RedGem.xnb</Output>
+      <Time>2016-04-20T22:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SilverGem.png</Source>
+      <Name>SilverGem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SilverGem.xnb</Output>
+      <Time>2016-04-20T22:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Loading.jpg</Source>
+      <Name>Loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Loading.xnb</Output>
+      <Time>2016-04-21T12:48:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>starRotate.png</Source>
+      <Name>starRotate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\starRotate.xnb</Output>
+      <Time>2016-04-21T12:48:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Help.jpg</Source>
+      <Name>Help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Help.xnb</Output>
+      <Time>2016-04-21T14:13:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Highlight.png</Source>
+      <Name>Highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Highlight.xnb</Output>
+      <Time>2016-04-21T14:48:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels.png</Source>
+      <Name>Levels</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Levels.xnb</Output>
+      <Time>2016-04-21T14:50:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Pathways.png</Source>
+      <Name>Pathways</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Pathways.xnb</Output>
+      <Time>2016-04-21T14:50:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SampleScreen.jpg</Source>
+      <Name>SampleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SampleScreen.xnb</Output>
+      <Time>2016-04-21T14:54:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>whiteAsteroid2.png</Source>
+      <Name>whiteAsteroid2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid2.xnb</Output>
+      <Time>2016-04-21T18:36:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>whiteAsteroid3.png</Source>
+      <Name>whiteAsteroid3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\whiteAsteroid3.xnb</Output>
+      <Time>2016-04-21T18:42:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyTexture.png</Source>
+      <Name>EnemyTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\EnemyTexture.xnb</Output>
+      <Time>2016-04-21T21:51:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>enemybullet.png</Source>
+      <Name>enemybullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\enemybullet.xnb</Output>
+      <Time>2016-04-21T21:27:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.jpg</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2016-04-21T22:57:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Armor.png</Source>
+      <Name>Armor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Armor.xnb</Output>
+      <Time>2016-04-22T00:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Back.png</Source>
+      <Name>Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Back.xnb</Output>
+      <Time>2016-04-22T00:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Engine.png</Source>
+      <Name>Engine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Engine.xnb</Output>
+      <Time>2016-04-22T00:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>FuelTank.png</Source>
+      <Name>FuelTank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\FuelTank.xnb</Output>
+      <Time>2016-04-22T00:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hangarback.jpg</Source>
+      <Name>hangarback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\hangarback.xnb</Output>
+      <Time>2016-04-22T00:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hold.png</Source>
+      <Name>Hold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Hold.xnb</Output>
+      <Time>2016-04-22T00:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LaserCharge.png</Source>
+      <Name>LaserCharge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserCharge.xnb</Output>
+      <Time>2016-04-22T00:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LaserPower.png</Source>
+      <Name>LaserPower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserPower.xnb</Output>
+      <Time>2016-04-22T00:05:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LaserShield.png</Source>
+      <Name>LaserShield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\LaserShield.xnb</Output>
+      <Time>2016-04-22T00:05:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Oberon.png</Source>
+      <Name>Oberon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Oberon.xnb</Output>
+      <Time>2016-04-22T00:05:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ophelia2.png</Source>
+      <Name>Ophelia2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Ophelia2.xnb</Output>
+      <Time>2016-04-22T00:08:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Othello2.png</Source>
+      <Name>Othello2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Othello2.xnb</Output>
+      <Time>2016-04-22T00:08:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Upgrade1.png</Source>
+      <Name>Upgrade1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Upgrade1.xnb</Output>
+      <Time>2016-04-22T00:12:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Upgrade2.png</Source>
+      <Name>Upgrade2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Upgrade2.xnb</Output>
+      <Time>2016-04-22T00:12:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UpgradeShip2.png</Source>
+      <Name>UpgradeShip2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\UpgradeShip2.xnb</Output>
+      <Time>2016-04-22T00:12:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SideThrust.png</Source>
+      <Name>SideThrust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SideThrust.xnb</Output>
+      <Time>2016-04-22T00:13:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sell.png</Source>
+      <Name>Sell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Sell.xnb</Output>
+      <Time>2016-04-22T00:14:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>OberonMovement.png</Source>
+      <Name>OberonMovement</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\OberonMovement.xnb</Output>
+      <Time>2016-04-22T01:57:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Shield.png</Source>
+      <Name>Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Shield.xnb</Output>
+      <Time>2016-04-22T02:04:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Credits.jpg</Source>
+      <Name>Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Credits.xnb</Output>
+      <Time>2016-04-22T04:18:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options.jpg</Source>
+      <Name>Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Options.xnb</Output>
+      <Time>2016-04-22T04:18:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ShiledBar.png</Source>
+      <Name>ShiledBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ShiledBar.xnb</Output>
+      <Time>2016-04-23T10:18:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-04-20T21:49:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Click.wav</Source>
+      <Name>Click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Click.xnb</Output>
+      <Time>2016-04-22T02:59:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ShotEffect.wav</Source>
+      <Name>ShotEffect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ShotEffect.xnb</Output>
+      <Time>2016-04-22T02:59:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fly.wav</Source>
+      <Name>fly</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\fly.xnb</Output>
+      <Time>2016-04-22T03:02:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Shot_hits_asteroid.wav</Source>
+      <Name>Shot_hits_asteroid</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\Shot_hits_asteroid.xnb</Output>
+      <Time>2016-04-22T03:05:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backGroundMusic.mp3</Source>
+      <Name>backGroundMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\backGroundMusic.xnb</Output>
+      <Extra>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\backGroundMusic.wma</Extra>
+      <Time>2016-04-22T03:12:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ComingFromMission.wmv</Source>
+      <Name>ComingFromMission</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ComingFromMission.xnb</Output>
+      <Extra>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\ComingFromMission.wmv</Extra>
+      <Time>2016-04-22T03:51:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GoingToMission.wmv</Source>
+      <Name>GoingToMission</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GoingToMission.xnb</Output>
+      <Extra>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\GoingToMission.wmv</Extra>
+      <Time>2016-04-22T03:51:32+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{936B728B-FC7C-485E-8F35-9939E5928BF9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_LoadedContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Bartosz Zych\OneDrive - Institute of Technology Carlow\Computer games\Asteroids Re-loaded\Asteroids Re-Loaded\Asteroids Re-Loaded\Asteroids_Re_Loaded\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-12-22T16:52:53.1230397+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
