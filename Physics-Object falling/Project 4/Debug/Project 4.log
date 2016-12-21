@@ -1,0 +1,9 @@
+﻿  PhysicsObject.cpp
+c:\users\bartosz\desktop\project 4\project 4\physicsobject.cpp(36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\bartosz\desktop\project 4\project 4\physicsobject.cpp(37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Game.cpp
+c:\users\bartosz\desktop\project 4\project 4\game.cpp(79): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Project 4.vcxproj -> C:\Users\Bartosz\Desktop\Project 4\Debug\Project 4.exe
+  Project 4.vcxproj -> C:\Users\Bartosz\Desktop\Project 4\Debug\Project 4.pdb (Partial PDB)
