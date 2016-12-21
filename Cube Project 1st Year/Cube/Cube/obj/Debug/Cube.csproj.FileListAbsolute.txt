@@ -1,0 +1,27 @@
+F:\Applied Maths\Lab 11\Cube\Cube\bin\Debug\Cube.exe.config
+F:\Applied Maths\Lab 11\Cube\Cube\bin\Debug\Cube.exe
+F:\Applied Maths\Lab 11\Cube\Cube\bin\Debug\Cube.pdb
+F:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.csprojResolveAssemblyReference.cache
+F:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.Properties.Resources.resources
+F:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.csproj.GenerateResource.Cache
+F:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.exe
+F:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.pdb
+F:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.Form1.resources
+E:\Applied Maths\Lab 11\Cube\Cube\bin\Debug\Cube.exe.config
+E:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.exe
+E:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.pdb
+E:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.csprojResolveAssemblyReference.cache
+E:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.Form1.resources
+E:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.Properties.Resources.resources
+E:\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.csproj.GenerateResource.Cache
+E:\Applied Maths\Lab 11\Cube\Cube\bin\Debug\Cube.exe
+E:\Applied Maths\Lab 11\Cube\Cube\bin\Debug\Cube.pdb
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 11\Cube\Cube\bin\Debug\Cube.exe.config
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.exe
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.pdb
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 11\Cube\Cube\bin\Debug\Cube.exe
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 11\Cube\Cube\bin\Debug\Cube.pdb
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.Form1.resources
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.Properties.Resources.resources
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 11\Cube\Cube\obj\Debug\Cube.csproj.GenerateResource.Cache
