@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab 6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+d:\projects\lab 7\game.cpp(104): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\projects\lab 7\game.cpp(108): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\projects\lab 7\game.cpp(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\lab 7\game.cpp(195): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\lab 7\game.cpp(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\lab 7\game.cpp(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\lab 7\game.cpp(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\lab 7\game.cpp(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab 7.vcxproj -> D:\Projects\lab 7\Debug\lab 7.exe
+  lab 7.vcxproj -> D:\Projects\lab 7\Debug\lab 7.pdb (Partial PDB)
