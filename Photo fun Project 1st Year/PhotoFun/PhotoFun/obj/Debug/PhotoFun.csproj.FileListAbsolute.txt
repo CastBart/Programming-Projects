@@ -1,0 +1,21 @@
+E:\Applied Maths\Lab 9\PhotoFun\PhotoFun\bin\Debug\PhotoFun.exe.config
+E:\Applied Maths\Lab 9\PhotoFun\PhotoFun\bin\Debug\PhotoFun.exe
+E:\Applied Maths\Lab 9\PhotoFun\PhotoFun\bin\Debug\PhotoFun.pdb
+E:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.csprojResolveAssemblyReference.cache
+E:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.Form1.resources
+E:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.Properties.Resources.resources
+E:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.csproj.GenerateResource.Cache
+E:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.exe
+E:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.pdb
+F:\Applied Maths\Lab 9\PhotoFun\PhotoFun\bin\Debug\PhotoFun.exe.config
+F:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.exe
+F:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.pdb
+F:\Applied Maths\Lab 9\PhotoFun\PhotoFun\bin\Debug\PhotoFun.exe
+F:\Applied Maths\Lab 9\PhotoFun\PhotoFun\bin\Debug\PhotoFun.pdb
+F:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.csprojResolveAssemblyReference.cache
+F:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.Form1.resources
+F:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.Properties.Resources.resources
+F:\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.csproj.GenerateResource.Cache
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 9\PhotoFun\PhotoFun\bin\Debug\PhotoFun.exe.config
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.exe
+C:\Users\Bartosz\OneDrive - Institute of Technology Carlow\Applied Maths\Lab 9\PhotoFun\PhotoFun\obj\Debug\PhotoFun.pdb
