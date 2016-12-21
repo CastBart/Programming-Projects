@@ -1,0 +1,14 @@
+E:\ParticalsTrial\ParticalsTrial\ParticalsTrial\obj\x86\Debug\ParticalsTrial.csprojResolveAssemblyReference.cache
+E:\ParticalsTrial\ParticalsTrial\ParticalsTrial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ParticalsTrial\ParticalsTrial\ParticalsTrial\bin\x86\Debug\Content\GreenPartical.xnb
+E:\ParticalsTrial\ParticalsTrial\ParticalsTrial\bin\x86\Debug\ParticalsTrial.exe
+E:\ParticalsTrial\ParticalsTrial\ParticalsTrial\bin\x86\Debug\ParticalsTrial.pdb
+E:\ParticalsTrial\ParticalsTrial\ParticalsTrial\obj\x86\Debug\ParticalsTrial.exe
+E:\ParticalsTrial\ParticalsTrial\ParticalsTrial\obj\x86\Debug\ParticalsTrial.pdb
+F:\ParticalsTrial\ParticalsTrial\ParticalsTrial\bin\x86\Debug\Content\GreenPartical.xnb
+F:\ParticalsTrial\ParticalsTrial\ParticalsTrial\bin\x86\Debug\ParticalsTrial.exe
+F:\ParticalsTrial\ParticalsTrial\ParticalsTrial\bin\x86\Debug\ParticalsTrial.pdb
+F:\ParticalsTrial\ParticalsTrial\ParticalsTrial\obj\x86\Debug\ParticalsTrial.csprojResolveAssemblyReference.cache
+F:\ParticalsTrial\ParticalsTrial\ParticalsTrial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\ParticalsTrial\ParticalsTrial\ParticalsTrial\obj\x86\Debug\ParticalsTrial.exe
+F:\ParticalsTrial\ParticalsTrial\ParticalsTrial\obj\x86\Debug\ParticalsTrial.pdb
