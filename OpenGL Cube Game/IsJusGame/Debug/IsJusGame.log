@@ -1,0 +1,28 @@
+﻿  Game.cpp
+d:\github\programming-projects\opengl cube game\isjusgame\game.cpp(280): warning C4018: '<': signed/unsigned mismatch
+d:\github\programming-projects\opengl cube game\isjusgame\game.cpp(290): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\game.cpp(297): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\game.cpp(304): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\game.cpp(311): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\game.cpp(334): warning C4018: '<': signed/unsigned mismatch
+  Cube.cpp
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(175): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(176): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(252): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(253): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(298): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(299): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(300): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(301): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(303): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(304): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(305): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(306): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(309): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\github\programming-projects\opengl cube game\isjusgame\cube.cpp(312): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  Main.cpp
+  Generating Code...
+  IsJusGame.vcxproj -> D:\GitHub\Programming-Projects\OpenGL Cube Game\Debug\IsJusGame.exe
+  IsJusGame.vcxproj -> D:\GitHub\Programming-Projects\OpenGL Cube Game\Debug\IsJusGame.pdb (Partial PDB)
